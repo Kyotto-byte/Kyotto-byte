@@ -20,8 +20,6 @@
 
 ### stats github
 
-### stats github
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyotto-byte&theme=react-dark" alt="Activity Graph" width="100%" />
 </p>

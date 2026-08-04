@@ -20,9 +20,10 @@
 
 ### stats github
 
+### stats github
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyotto-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyotto-byte&theme=react-dark" alt="Activity Graph" width="100%" />
 </p>
 
 ---

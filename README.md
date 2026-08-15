@@ -1,9 +1,11 @@
 # you welcome! i`m Kyotto-byte
 
 ### about me
-* learning 🐍.
-* actually dota2 player after all.
-* have a such ambitions and mastering my pl.
+Learning Python & Backend Development
+
+Building Telegram bots, REST APIs, and automation scripts
+
+Focused on writing clean, maintainable code
 
 ---
 

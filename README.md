@@ -1,11 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kyotto-byte&fontSize=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Kyotto-byte&fontSize=45&animation=twinkling)
+
+<p align="right">
+  <img src="https://profile-counter.glitch.me/Kyotto-byte/count.svg" alt="visitors" />
+</p>
 
 ### 👨‍💻 About Me
 
-* 🐍 Learning Python & Backend Development
+* 🚀 Learning Python & Backend Development
 * 🛠️ Building Telegram bots, REST APIs, and automation scripts
 * 🎯 Focused on writing clean, maintainable code
-![Snake animation](https://raw.githubusercontent.com/Kyotto-byte/Kyotto-byte/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🛠️ Technologies & Tools
@@ -20,11 +24,10 @@
 
 ### 📊 GitHub Stats
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyotto-byte&theme=tokyonight)
+![Kyotto-byte's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📬 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=azure)](https://t.me/patau_dodoz)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/patau_dodoz)

@@ -1,11 +1,11 @@
-# Hi there, I'm Kyotto-byte 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kyotto-byte&fontSize=50&animation=twinkling)
 
 ### 👨‍💻 About Me
 
 * 🐍 Learning Python & Backend Development
 * 🛠️ Building Telegram bots, REST APIs, and automation scripts
 * 🎯 Focused on writing clean, maintainable code
-
+![Snake animation](https://raw.githubusercontent.com/Kyotto-byte/Kyotto-byte/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🛠️ Technologies & Tools

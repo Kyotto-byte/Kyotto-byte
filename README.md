@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 
-![Kyotto-byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyotto-byte&theme=tokyonight)
 
 ---
 

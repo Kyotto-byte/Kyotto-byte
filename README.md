@@ -26,6 +26,5 @@
 
 ### 📬 Connect with Me
 
-* **Telegram:** [@patau_dodoz](https://t.me/patau_dodoz)
-* **Discord:** `patau_dodoz`
-
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=azure)](https://t.me/patau_dodoz)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com)

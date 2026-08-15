@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Kyotto-byte&fontSize=60&animation=twinkling&desc=Backend%20Developer&descSize=20&descAlign=50&theme=dark)
+![Header](./header.gif)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Kyotto-byte&color=blue&style=flat-square" alt="Visitors" />

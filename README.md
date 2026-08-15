@@ -1,8 +1,12 @@
 ![Header](./header.gif)
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kyotto-byte&color=blue&style=flat-square" alt="Visitors" />
 </p>
+
+---
+
+### 👨‍💻 About Me
 
 ### 👨‍💻 About Me
 

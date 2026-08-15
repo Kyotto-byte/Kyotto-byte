@@ -8,8 +8,6 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 * 🚀 Learning Python & Backend Development
 * 🛠️ Building Telegram bots, REST APIs, and automation scripts
 * 🎯 Focused on writing clean, maintainable code

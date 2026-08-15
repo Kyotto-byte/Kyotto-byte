@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Kyotto-byte&fontSize=45&animation=twinkling)
 
 <p align="right">
-  <img src="https://profile-counter.glitch.me/Kyotto-byte/count.svg" alt="visitors" />
+![Visitors](https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyotto-byte&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </p>
 
 ### 👨‍💻 About Me

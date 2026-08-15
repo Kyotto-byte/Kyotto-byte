@@ -1,48 +1,33 @@
-# You welcome! i`m Kyotto-byte
+# Hi there, I'm Kyotto-byte 👋
 
-### about me
-Learning Python & Backend Development
+### 👨‍💻 About Me
 
-Building Telegram bots, REST APIs, and automation scripts
-
-Focused on writing clean, maintainable code
-
----
-
-### Technology and instruments
-
-<p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/Kyotto-byte" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/patau_dodoz" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+* 🐍 Learning Python & Backend Development
+* 🛠️ Building Telegram bots, REST APIs, and automation scripts
+* 🎯 Focused on writing clean, maintainable code
 
 ---
 
-### Technologies & Tools
+### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
-### stats github
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyotto-byte&theme=react-dark" alt="Activity Graph" width="100%" />
-</p>
+![Kyotto-byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=tokyonight)
 
+---
+
+### 📬 Connect with Me
+
+* **Telegram:** [@patau_dodoz](https://t.me/patau_dodoz)
+* **Discord:** `patau_dodoz`
 ---
 
 ### connect with me

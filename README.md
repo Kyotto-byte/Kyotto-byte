@@ -28,9 +28,4 @@
 
 * **Telegram:** [@patau_dodoz](https://t.me/patau_dodoz)
 * **Discord:** `patau_dodoz`
----
 
-### connect with me
-
-* **Telegram:** [@patau_dodoz](https://t.me/patau_dodoz)
-* **Discord:** `patau_dodoz`

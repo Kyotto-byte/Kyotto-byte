@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 *  Learning Python & Backend Development
 *  Building Telegram bots, REST APIs, and automation scripts
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -24,12 +24,13 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyotto-byte&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/patau_dodoz)

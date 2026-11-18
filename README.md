@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=dark)
 
 ---
 

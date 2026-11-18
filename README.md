@@ -25,8 +25,11 @@
 ---
 
 ###  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyotto-byte&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyotto-byte&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9" width="48%" />
+</p>
 
 ---
 

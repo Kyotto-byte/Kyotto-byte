@@ -8,9 +8,11 @@
 
 ###  About Me
 
-*  Learning Python & Backend Development
-*  Building Telegram bots, REST APIs, and automation scripts
-*  Focused on writing clean, maintainable code
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Learning%20Python%20%26%20Backend-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Building%20Telegram%20Bots%20%26%20APIs-green?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-Clean%20%26%20Maintainable%20Code-orange?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 

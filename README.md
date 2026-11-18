@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Kyotto-byte's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kyotto-byte&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyotto-byte&show_icons=true)
 
 ---
 
